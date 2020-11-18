@@ -5,7 +5,7 @@ This repo contains detailed data analysis on introduction to statistics, introdu
 Statistics is the study of how to collect, analyze, and draw conclusions from data. It’s a hugely valuable tool that you can use to bring the future into focus and infer the answer to tons of questions. For example, what is the likelihood of someone purchasing your product, how many calls will your support team receive, and how many jeans sizes should you manufacture to fit 95% of the population? In this repo, most situations like these where covered, using scatterplots to show the relationship between numeric values, and calculating correlation. Probability was also tackled, the backbone of statistical reasoning, and how to use Python to conduct a well-designed study to draw your own conclusions from data.
 
 #### Modules
-* **Summary Statistics**
+* [**Summary Statistics**](https://github.com/Josiah-Jovido/Data_Camp_Data_Science/blob/main/Intro_statistics/Measures%20of%20center%20and%20spread.ipynb)
 Summary statistics gives you the tools you need to boil down massive datasets to reveal the highlights. In this repo, I explored summary statistics including   mean, median, and standard deviation, and showed how to accurately interpret them.
 * **Random Numbers and Probability**
 In this repo, I cocered how to generate random samples and measure chance using probability. I also worked with real-world sales data to calculate the probability of a salesperson being successful. Finally, I used the binomial distribution to model events with binary outcomes.
