@@ -45,5 +45,5 @@ In this section, I covered a dimension reduction technique called "Non-negative 
 Feature engineering is the process of using data’s domain knowledge to create features that make machine learning algorithms work. It’s the act of extracting important features from raw data and transforming them into formats that are suitable for machine learning. To perform feature engineering, a data scientist combines domain knowledge (knowledge about a specific field) with math and programming skills to transform or come up with new features that will help a machine learning model perform better. Feature engineering is a practical area of machine learning and is one of the most important aspects of it.
 
 #### Modules
-[**Creating Features**](https://github.com/Josiah-Jovido/Data_Camp_Data_Science/blob/main/Feature_engineering/Creating_Features.ipynb)
+* [**Creating Features**](https://github.com/Josiah-Jovido/Data_Camp_Data_Science/blob/main/Feature_engineering/Creating_Features.ipynb)
 In this repo, I explored what feature engineering is and how to get started with applying it to real-world data. I loaded, explored and visualized a survey response dataset, and in doing so i displayed its underlying data types and why they have an influence on how i engineered my features. Using the pandas package i created new features from both categorical and continuous columns. 
